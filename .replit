@@ -1,0 +1,6 @@
+language = "java"
+run = "sh start.sh"
+modules = ["java-graalvm22.3", "bash"]
+
+[nix]
+channel = "stable-24_05"
