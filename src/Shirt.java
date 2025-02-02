@@ -2,7 +2,7 @@ public class Shirt {
     public int shirtID = 0; // стандартне значення номера моделі сорочки
     public String description = "Сорочка"; // стандартний опис сорочки
     // коди кольорів: R=червоний, B=синій, G=зелений, U=невідомо
-    public char colorCode = 'R';
+    public String colorCode = "червоний";
     public double price = 15.0; // стандартна вартість сорочки
     public int quantityInStock = 50; // стандартна кількість на складі
 
