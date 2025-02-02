@@ -8,8 +8,8 @@
 
 # Завдання 2.2( на 5 )
 
-## 1
+## змінив код завдання таким чином, щоб колір сорочки зберігався та виводився у вигляді рядка
 !{}(https://github.com/xxxx3423/java-first-xxxx3423-1-Artem/blob/main/Solution/5.png?raw=true)
 
-## 2
+## змінив код завдання таким чином, щоб виводилось ім'я того, кому вона належить
 !{}(https://github.com/xxxx3423/java-first-xxxx3423-1-Artem/blob/main/Solution/6.png?raw=true)
